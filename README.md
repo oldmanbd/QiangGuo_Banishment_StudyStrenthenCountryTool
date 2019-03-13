@@ -1,5 +1,6 @@
 # StudyStrengthenCountry Tool
 
+PC自动强国工具。
 
 
 ## Detail
