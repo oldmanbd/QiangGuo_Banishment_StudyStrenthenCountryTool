@@ -1,6 +1,6 @@
 # StudyStrengthenCountry Tool
 
-PC自动强国工具。
+PC auto 强国工具。
 
 下载方法：↗点击Clone & Download，下载Zip文件解压运行即可。或在Release中选择下载版本。
 
