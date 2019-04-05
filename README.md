@@ -1,5 +1,7 @@
 # StudyStrengthenCountry Tool
 
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
 PC auto 强国工具。
 
 下载方法：↗点击Clone & Download，下载Zip文件解压运行即可。或在Release中选择下载版本。
